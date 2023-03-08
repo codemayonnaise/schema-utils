@@ -45,7 +45,7 @@
     "declarations"
   ],
   "dependencies": {
-    "@codemayonnaise/ajv-keywords": "^3.5.4",
+    "@codemayonnaise/ajv-keywords": "^3.5.5",
     "@types/json-schema": "^7.0.8",
     "ajv": "^6.12.5"
   },

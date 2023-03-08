@@ -1,5 +1,5 @@
 {
-  "name": "schema-utils",
+  "name": "@codemayonnaise/schema-utils",
   "version": "3.1.1",
   "description": "webpack Validation Utils",
   "license": "MIT",
@@ -45,9 +45,9 @@
     "declarations"
   ],
   "dependencies": {
+    "@codemayonnaise/ajv-keywords": "^3.5.4",
     "@types/json-schema": "^7.0.8",
-    "ajv": "^6.12.5",
-    "ajv-keywords": "^3.5.2"
+    "ajv": "^6.12.5"
   },
   "devDependencies": {
     "@babel/cli": "^7.14.3",
